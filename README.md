@@ -14,6 +14,7 @@ __This will also be bold__*
 
 You **can** combine them*
 
+![alt text](https://lebulletinbleu.files.wordpress.com/2017/05/bernard-lhermite.jpg?w=723)
 
 :metal:
 :metal:
