@@ -1,2 +1,2 @@
 # My-first-project
-hello
+Test of the project
